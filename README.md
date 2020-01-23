@@ -5,3 +5,10 @@ Made by:
 - Rokas Tverijonas
 - Domantas Kiaušinis
 - Žilvinas Norinkevičius
+
+My part:
+- some ui elements
+- scene design
+- particles
+- options (ui and code)
+- enemy spaceship (behaviour, code)
